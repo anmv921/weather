@@ -1,10 +1,9 @@
 // TODO Icones e chuva
 
-
 "use strict";
 
 let urlBasis = "https://api.openweathermap.org/data/2.5/weather";
-let key = "";
+let key = "51a87b5574b14304ab2fd027544ad2ed";
 
 function getWeather(in_city) {
     let units = "metric";
@@ -180,6 +179,6 @@ function displayWeather(in_weatherJson) {
     document.getElementById("dew").innerHTML += `${Math.round(Td)}°C`;
 }
 
-let cidade = "Reboleira";
+let cidade = "Lisboa";
 getWeather(cidade);
 
