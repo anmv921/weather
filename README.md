@@ -13,11 +13,11 @@ The information is retrieved assyncronously, and formatted as JSON.
 
 The data retrieved is:
 
-- Summary
 - Temperature
 - "Feels like" temperature
+- Summary
 - Wind info
 - Pressure
 - Humidity
-- Visibility
 - Dew point
+- Visibility
