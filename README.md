@@ -2,7 +2,7 @@
 
 > <img alt="" 
 src="https://github.com/anmv921/weather/blob/main/data/Captura%20de%20ecr%C3%A3%202025-01-24%20153729.png" 
-width="800px" />
+width="500px" />
 
 This is an app that obtains data from the site https://openweathermap.org/api 
 using javascript's fetch() API and displays the information in the browser.
