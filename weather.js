@@ -3,7 +3,7 @@
 "use strict";
 
 let urlBasis = "https://api.openweathermap.org/data/2.5/weather";
-let key = "51a87b5574b14304ab2fd027544ad2ed";
+let key = "";
 
 function getWeather(in_city) {
     let units = "metric";
